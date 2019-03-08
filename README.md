@@ -19,7 +19,7 @@ git clone https://github.com/joshspeakman/Burger.git
 ```
 **Step 2 - Change directory to the cloned repo folder.**
 ```
-cd Eat-Da-Burger
+cd Burger
 ```
 **Step 3 - Install all required NPM packages.**
 ```
