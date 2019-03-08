@@ -7,7 +7,7 @@
 }
 
 .jumbotron > h1 {
-    font-family: 'FR73 Pixel';
+    font-family: 'Roboto', bold;
 }
 
 #newburger {
@@ -19,7 +19,7 @@
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: #000000;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -30,7 +30,7 @@
 }
 
 #righthead {
-    background-color: #f0ad4e;
+    background-color: #ff0000;
     color: white;
     text-align: center;
     font-size: 1.2em;
